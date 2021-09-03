@@ -1,0 +1,10 @@
+
+Q2
+
+We would obtain an error saying, 
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+Q4
+
+By using "/n" we can add a new line in the print statement
+By simply " " we can give space in the print statement
